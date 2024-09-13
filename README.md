@@ -1,6 +1,6 @@
 # Power BI Dashboard - chocolate
 
-This repository contains a Power BI dashboard that provides insights and visualizations for [insert relevant project/topic here]. The dashboard is designed to be interactive and user-friendly, offering valuable data-driven insights for effective decision-making.
+This repository contains a Power BI dashboard that provides insights and visualizations for 'AWESOME CHOCOLATE'. The dashboard is designed to be interactive and user-friendly, offering valuable data-driven insights for effective decision-making.
 
 ## Dashboard Preview
 Dashboard Preview by visiting the link below:
