@@ -3,8 +3,9 @@
 This repository contains a Power BI dashboard that provides insights and visualizations for [insert relevant project/topic here]. The dashboard is designed to be interactive and user-friendly, offering valuable data-driven insights for effective decision-making.
 
 ## Dashboard Preview
+Dashboard Preview by visiting the link below:
+[Dashboard Preview](https://app.powerbi.com/reportEmbed?reportId=e4757241-770e-4378-b393-78b210dbdadf&autoAuth=true&ctid=b8d090cb-2c0f-4ca4-9a05-4ed78f0f7ef5)
 
-<iframe title="chocolate" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=e4757241-770e-4378-b393-78b210dbdadf&autoAuth=true&ctid=b8d090cb-2c0f-4ca4-9a05-4ed78f0f7ef5" frameborder="0" allowFullScreen="true"></iframe>
 
 ## Access the Full Dashboard
 
